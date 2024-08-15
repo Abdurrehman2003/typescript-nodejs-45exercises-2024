@@ -55,13 +55,13 @@ This repository contains 45 exercises completed as part of a "Getting Started wi
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/repository-name.git
+   git clone https://github.com/Abdurrehman2003/typescript-nodejs-45exercises-2024.git
 2. Navigate to the project directory:
    ```bash
    cd repository-name
 3. Install dependencies (if applicable):
    ```bash
-  npm install
+   npm install
 4. Run exercises using Node.js:
    ```bash
    node path/to/exercise.js
